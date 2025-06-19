@@ -1,4 +1,4 @@
-# 🎉 Event Planner System
+# Event Planner System
 
 A real-time event planning system built with Python, Redis Pub/Sub, Flask, and React. Hosts send invitations, guests respond automatically, and responses are collected in real-time.
 
