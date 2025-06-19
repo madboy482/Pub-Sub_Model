@@ -281,12 +281,3 @@ The system uses `config.json` for channel configuration:
   "summary_channel": "event_summary",
   "guests": ["guest1", "guest2", "guest3"]
 }
-```
-
-## 🤝 Contributing
-
-This is a demonstration project for an internship assignment. The focus is on showing clean, well-structured code with good practices for a beginner-to-intermediate level project.
-
----
-
-**Built with ❤️ for ParchAi Internship Assignment**
